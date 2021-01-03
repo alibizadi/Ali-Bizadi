@@ -1,0 +1,10 @@
+C:\Users\Bizadi\source\repos\Nibbles\Nibbles\bin\Debug\Nibbles.exe.config
+C:\Users\Bizadi\source\repos\Nibbles\Nibbles\bin\Debug\Nibbles.exe
+C:\Users\Bizadi\source\repos\Nibbles\Nibbles\bin\Debug\Nibbles.pdb
+C:\Users\Bizadi\source\repos\Nibbles\Nibbles\obj\Debug\Nibbles.csprojAssemblyReference.cache
+C:\Users\Bizadi\source\repos\Nibbles\Nibbles\obj\Debug\Nibbles.Form1.resources
+C:\Users\Bizadi\source\repos\Nibbles\Nibbles\obj\Debug\Nibbles.Properties.Resources.resources
+C:\Users\Bizadi\source\repos\Nibbles\Nibbles\obj\Debug\Nibbles.csproj.GenerateResource.cache
+C:\Users\Bizadi\source\repos\Nibbles\Nibbles\obj\Debug\Nibbles.csproj.CoreCompileInputs.cache
+C:\Users\Bizadi\source\repos\Nibbles\Nibbles\obj\Debug\Nibbles.exe
+C:\Users\Bizadi\source\repos\Nibbles\Nibbles\obj\Debug\Nibbles.pdb
